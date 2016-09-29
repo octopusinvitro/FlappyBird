@@ -1,0 +1,15 @@
+=================
+Flappy Bird tasks
+=================
+
+1) Tune the physics
+2) Rotate the landscape graphics
+3) Play with the tubes
+4) Stop action when level is complete
+5) Implement collision detection
+6) Create game over state
+7) Create start game state
+8) Rotate flappy when flapping
+9) Create death sequence (bird drops)
+
+Have fun!!!
